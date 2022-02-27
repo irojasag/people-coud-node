@@ -1,0 +1,11 @@
+{
+  "name": "people-api",
+  "version": "1.0.0",
+  "description": "Api for a people crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Rojas",
+  "license": "MIT"
+}
